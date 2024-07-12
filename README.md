@@ -18,6 +18,13 @@
     </div>  
 </div>
 
+# Example of a Circular Image
+
+Here is an example of an image displayed in a circular shape:
+
+<img src="./img/dog.png" alt="Circular Image" style="border-radius: 50%; width: 150px; height: 150px;">
+
+
 ### 介绍
 本项目用于记录大模型的一些学习记录，不定时更新，欢迎有兴趣的朋友一起监督打卡
 
