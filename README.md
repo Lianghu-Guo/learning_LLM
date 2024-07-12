@@ -4,6 +4,10 @@
     </div>  
 </div>
 
+<div align="center">  
+    <img src="./img/dog.png" alt="描述" style="width:50%;">  
+</div>
+
 ### 介绍
 本项目用于记录大模型的一些学习记录，不定时更新，欢迎有兴趣的朋友一起监督打卡
 
